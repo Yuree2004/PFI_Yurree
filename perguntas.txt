@@ -1,0 +1,44 @@
+Pergunta 1: Qual é o objetivo principal do projeto da Trilha Ecológica no IFPR?
+Resposta 1: O objetivo principal do projeto da Trilha Ecológica no IFPR é promover o ensino e a percepção da comunidade externa quanto à importância da preservação dos ambientes para a sustentabilidade dos recursos naturais, por meio da construção e visitação da trilha e das coleções biológicas.
+
+Pergunta 2: Quais instituições estão envolvidas como parceiras no desenvolvimento deste projeto?
+Resposta 2: O projeto é desenvolvido em parceria com a UTFPR – DV, Engie e Empresa Araupel S/A.
+
+Pergunta 3: Como a trilha ecológica ajuda na educação ambiental?
+Resposta 3: A trilha ecológica ajuda na educação ambiental ao proporcionar uma vivência prática dos conhecimentos teóricos, estimulando a compreensão da importância da preservação ambiental e da sustentabilidade dos recursos naturais.
+
+Pergunta 4: Quais são os benefícios de preservar um fragmento florestal, de acordo com Cunha (2014)?
+Resposta 4: A preservação de fragmentos florestais é fundamental porque é neles que se encontram recursos naturais essenciais para a sobrevivência da população, como água, alimentos e matérias-primas, além de contribuírem para melhorar as condições climáticas.
+
+Pergunta 5: Qual é o papel das trilhas ecológicas na promoção da aprendizagem prática?
+Resposta 5: As trilhas ecológicas promovem a aprendizagem prática ao permitir que os participantes interajam diretamente com o ambiente natural, aplicando os conhecimentos teóricos em situações reais.
+
+Pergunta 6: Como a plataforma web associada à trilha ajuda os visitantes?
+Resposta 6: A plataforma web associada à trilha ajuda os visitantes fornecendo um breve resumo da trilha, uma agenda online para agendar visitas e um quiz educativo para testar os conhecimentos adquiridos durante a visita.
+
+Pergunta 7: O que é o quiz educativo mencionado no projeto?
+Resposta 7: O quiz educativo é uma ferramenta interativa que permite aos visitantes testarem seus conhecimentos sobre ciências naturais, especialmente relacionados à flora e fauna locais.
+
+Pergunta 8: Por que é importante ensinar educação ambiental nas escolas, de acordo com Mello (2017)?
+Resposta 8: É importante ensinar educação ambiental nas escolas para conscientizar a população sobre as consequências do desmatamento e da poluição, incentivando cuidados com o ambiente.
+
+Pergunta 9: Quais são os tipos de atividades realizadas durante a visita à trilha?
+Resposta 9: Durante a visita à trilha, são realizadas atividades como a contemplação das espécies nativas, coletas de plantas e animais, e montagem de armadilhas para identificação da fauna local.
+
+Pergunta 10: Como a trilha contribui para a pesquisa e o ensino no campus?
+Resposta 10: A trilha contribui para a pesquisa e o ensino no campus ao proporcionar um ambiente prático para o estudo da flora e fauna locais, bem como para a descoberta de novas espécies.
+
+Pergunta 11: Quais são os recursos naturais que são encontrados em fragmentos florestais?
+Resposta 11: Fragmentos florestais contêm recursos naturais como água, alimentos e matérias-primas que são essenciais para a sobrevivência da população.
+
+Pergunta 12: Qual é a importância da flora e fauna locais em relação à sustentabilidade dos recursos naturais?
+Resposta 12: A flora e fauna locais são essenciais para a sustentabilidade dos recursos naturais, desempenhando um papel importante no equilíbrio do ecossistema.
+
+Pergunta 13: Como a trilha auxilia na descoberta de novas espécies de plantas e animais?
+Resposta 13: A trilha auxilia na descoberta de novas espécies de plantas e animais por meio da observação e coleta de espécimes.
+
+Pergunta 14: Quais são os públicos-alvo das visitas à trilha?
+Resposta 14: Os públicos-alvo das visitas à trilha incluem estudantes, professores, servidores no Instituto e outras escolas, bem como a Associação de Pais e Amigos dos Excepcionais (APAE).
+
+Pergunta 15: Como as tecnologias, como os códigos QR, são utilizadas na trilha para enriquecer a experiência dos visitantes?
+Resposta 15: Tecnologias como os códigos QR são utilizadas na trilha para fornecer informações adicionais sobre as plantas e árvores, enriquecendo a experiência dos visitantes e facilitando o aprendizado.
